@@ -1,0 +1,12 @@
+#EXTINF:-1, group-title="AOVIVO.CLUB", Amc
+https://edge-aws.aovivo.club/hls/s:88.198.163.51/amcbrasil_b7f5113f_dfa09c68744f892f3d9dd0521f5595769ef2e86c.m3u8?|User-Agent=AppleWebKit/537.36
+#EXTINF:-1, group-title="AOVIVO.CLUB", Axn
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/axn_cb7a1d77_98525f8ce38f7bd27c133f93545f52bb9d97aeb2/playlist.m3u8?|User-Agent=AppleWebKit/537.36
+#EXTINF:-1, group-title="AOVIVO.CLUB", Cinemax HD
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/cinemaxhd_49117359_0d58f2479faf897539b801b371f7acd991da69cd/playlist.m3u8?|User-Agent=AppleWebKit/537.36
+#EXTINF:-1, group-title="AOVIVO.CLUB", Cinemax SD
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax_22d200f8_31f9417a3f0c2d1c29c38c3a9eed36347be3d6f5.m3u8?|User-Agent=AppleWebKit/537.36
+#EXTINF:-1, group-title="AOVIVO.CLUB", Cinemax HD
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/cinemaxhd_49117359_0d58f2479faf897539b801b371f7acd991da69cd/playlist.m3u8?|User-Agent=AppleWebKit/537.36
+#EXTINF:-1, group-title="AOVIVO.CLUB", Cinemax HD
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/cinemaxhd_49117359_0d58f2479faf897539b801b371f7acd991da69cd/playlist.m3u8?|User-Agent=AppleWebKit/537.36
