@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="MGM" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="[FILMES/SERIES]", AMC
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="[FILMES/SERIES]", AMC
 http://23.237.78.82:30010/streams/3_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AMC
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="[FILMES/SERIES]", AMC
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/8?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", A&E
