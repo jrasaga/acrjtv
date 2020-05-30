@@ -1,5 +1,7 @@
+#EXTM3U
+
 #EXTINF:-1, group-title="AOVIVO.CLUB", Amc
-https://edge-aws.aovivo.club/hls/s:88.198.163.51/amcbrasil_b7f5113f_dfa09c68744f892f3d9dd0521f5595769ef2e86c.m3u8?|User-Agent=AppleWebKit/537.36
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/amcbrasil_b7f5113f_86ec23a9e718c359354801d315adcd0964bb0e82.m3u8?|User-Agent=AppleWebKit/537.36
 #EXTINF:-1, group-title="AOVIVO.CLUB", Axn
 https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/axn_cb7a1d77_98525f8ce38f7bd27c133f93545f52bb9d97aeb2/playlist.m3u8?|User-Agent=AppleWebKit/537.36
 #EXTINF:-1, group-title="AOVIVO.CLUB", CINEMAX HD
