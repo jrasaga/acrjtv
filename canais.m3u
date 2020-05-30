@@ -19,6 +19,21 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8?|User-A
 
 
 
+$OPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/57.0
+
+
+#EXTINF:-1,HUELVA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/57.0
+http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
+
+#EXTINF:-1,TESTE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+#EXTVLCOPT:http-referrer=https://topcanais.com/assistir-megapix-ao-vivo-24-horas-online/
+https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8?|User-Agent=AppleWebKit/537.36
+
+
+
+
 
 
 
