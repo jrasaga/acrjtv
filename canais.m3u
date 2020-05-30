@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1, Multishow
-http://23.237.78.82:30010/streams/143_.m3u8
+http://23.237.78.82:30010/streams/143_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, Nick jr
-http://23.237.78.82:30010/streams/139_.m3u8
+http://23.237.78.82:30010/streams/139_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, Hbo
-http://23.237.78.82:30010/streams/185_.m3u8
+http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, Hbo 2
-http://23.237.78.82:30010/streams/188_.m3u8
+http://23.237.78.82:30010/streams/188_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, Hbo family
-http://23.237.78.82:30010/streams/194_.m3u8
+http://23.237.78.82:30010/streams/194_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, Tlc
-http://23.237.78.82:30010/streams/122_.m3u8
+http://23.237.78.82:30010/streams/122_.m3u8?|User-Agent=n.TV
