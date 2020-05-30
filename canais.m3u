@@ -13,9 +13,9 @@ https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbopop_ce09b127_95c66ba438
 #EXTINF:-1, group-title="AOVIVO.CLUB", TNT
 https://edge-aws.aovivo.club/hls/s:78.47.27.206/tnt_9109c85a_a2171a90427d79c156363d7a66b64947fc83cf05/playlist.m3u8?|User-Agent=AppleWebKit/537.36
 
-#EXTINF:-1, tnt topcanais
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8?|User-Agent=AppleWebKit/537.36
-
+#EXTINF:-1, tnt topcanais 1
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
 
 
 #EXTINF:-1,TESTE 1
