@@ -100,38 +100,40 @@ http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98p
 ##############################
 ########## ESPORTES ##########
 ##############################
-#EXTINF:-1, COMBATE
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="", COMBATE
 http://23.237.78.82:30010/streams/49_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="", COMBATE
 http://195.154.161.57:8081/live/combate/chunks.m3u8?nimblesessionid=121678?|User-Agent=GoPlayer
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="", COMBATE
 http://195.154.161.57:8081/live/combate/playlist.m3u8?wmsAuthSign=?|User-Agent=GoPlayer
 
-#EXTINF:-1, BANDO SPORTS
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", BAND SPORTS
 http://23.237.78.82:30010/streams/46_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, ESPN
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", ESPN
 http://23.237.78.82:30010/streams/51_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, ESPN BRASIL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", ESPN BRASIL
 http://23.237.78.82:30010/streams/53_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, ESPN EXTRA
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", ESPN EXTRA
 http://23.237.78.82:30010/streams/50_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, FOX SPORTS
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", FOX SPORTS
 http://23.237.78.82:30010/streams/55_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, FOX SPORTS 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", FOX SPORTS 2
 http://23.237.78.82:30010/streams/57_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, SPORTV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", SPORTV
 http://23.237.78.82:30010/streams/70_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, SPORTV 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", SPORTV 2
 http://23.237.78.82:30010/streams/72_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, SPORTV 3
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", SPORTV 3
 http://23.237.78.82:30010/streams/74_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, PREMIERE CLUBES
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", PREMIERE CLUBES
 http://23.237.78.82:30010/streams/61_.m3u8?|User-Agent=n.TV
 
