@@ -51,7 +51,7 @@ http://23.237.78.82:30010/streams/210_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="[FILMES/SERIES]",  TC TOUCH
 http://23.237.78.82:30010/streams/212_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="[FILMES/SERIES]", HBO
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo.png" group-title="[FILMES/SERIES]", HBO
 http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="[FILMES/SERIES]", HBO 2
