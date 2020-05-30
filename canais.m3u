@@ -100,40 +100,40 @@ http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98p
 ##############################
 ########## ESPORTES ##########
 ##############################
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="", COMBATE
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="[ESPORTES]", COMBATE
 http://23.237.78.82:30010/streams/49_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="", COMBATE
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="[ESPORTES]", COMBATE
 http://195.154.161.57:8081/live/combate/chunks.m3u8?nimblesessionid=121678?|User-Agent=GoPlayer
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="", COMBATE
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="[ESPORTES]", COMBATE
 http://195.154.161.57:8081/live/combate/playlist.m3u8?wmsAuthSign=?|User-Agent=GoPlayer
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", BAND SPORTS
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="[ESPORTES]", BAND SPORTS
 http://23.237.78.82:30010/streams/46_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", ESPN
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn.png" group-title="[ESPORTES]", ESPN
 http://23.237.78.82:30010/streams/51_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", ESPN BRASIL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="[ESPORTES]", ESPN BRASIL
 http://23.237.78.82:30010/streams/53_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", ESPN EXTRA
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="[ESPORTES]", ESPN EXTRA
 http://23.237.78.82:30010/streams/50_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", FOX SPORTS
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="[ESPORTES]", FOX SPORTS
 http://23.237.78.82:30010/streams/55_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", FOX SPORTS 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="[ESPORTES]", FOX SPORTS 2
 http://23.237.78.82:30010/streams/57_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", SPORTV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/1200px-SporTV_logo_2011.png" group-title="[ESPORTES]", SPORTV
 http://23.237.78.82:30010/streams/70_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", SPORTV 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="[ESPORTES]", SPORTV 2
 http://23.237.78.82:30010/streams/72_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", SPORTV 3
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1280px-SporTV_3_2017_logo.svg.png" group-title="[ESPORTES]", SPORTV 3
 http://23.237.78.82:30010/streams/74_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", PREMIERE CLUBES
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="[ESPORTES]", PREMIERE CLUBES
 http://23.237.78.82:30010/streams/61_.m3u8?|User-Agent=n.TV
 
