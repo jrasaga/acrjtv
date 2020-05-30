@@ -25,107 +25,106 @@ http://23.237.78.82:30010/streams/200_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="[FILMES/SERIES]", STUDIO UNIVERSAL
 http://23.237.78.82:30010/streams/173_.m3u8?|User-agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", SYFY
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1280px-SYFY.svg.png" group-title="[FILMES/SERIES]", SYFY
 http://23.237.78.82:30010/streams/174_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", SONY CHANNEL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1200px-Canal_Sony_logo.svg.png" group-title="[FILMES/SERIES]", SONY CHANNEL
 http://23.237.78.82:30010/streams/160_.m3u8?|User-agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", SONY CHANNEL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1200px-Canal_Sony_logo.svg.png" group-title="[FILMES/SERIES]", SONY CHANNEL
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/24?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC ACTION
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="[FILMES/SERIES]", TC ACTION
 http://23.237.78.82:30010/streams/213_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]",  TC CULT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="[FILMES/SERIES]",  TC CULT
 http://23.237.78.82:30010/streams/203_.m3u8?|User-agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC FUN
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="[FILMES/SERIES]", TC FUN
 http://23.237.78.82:30010/streams/206_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PIPOCA
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="[FILMES/SERIES]", TC PIPOCA
 http://23.237.78.82:30010/streams/208_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PREMIUM
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="[FILMES/SERIES]", TC PREMIUM
 http://23.237.78.82:30010/streams/210_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]",  TC TOUCH
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="[FILMES/SERIES]",  TC TOUCH
 http://23.237.78.82:30010/streams/212_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="[FILMES/SERIES]", HBO
 http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="[FILMES/SERIES]", HBO 2
 http://23.237.78.82:30010/streams/187_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="[FILMES/SERIES]", HBO 2
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/48?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO FAMILY
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="[FILMES/SERIES]", HBO FAMILY
 http://23.237.78.82:30010/streams/193_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO PLUS
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="[FILMES/SERIES]", HBO PLUS
 http://23.237.78.82:30010/streams/189_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO PLUS
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="[FILMES/SERIES]", HBO PLUS
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/50?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO SIGNATURE
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="[FILMES/SERIES]", HBO SIGNATURE
 http://23.237.78.82:30010/streams/192_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO MUNDI
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="[FILMES/SERIES]", HBO MUNDI
 http://23.237.78.82:30010/streams/195_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO MUNDI
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="[FILMES/SERIES]", HBO MUNDI
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/6?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO XTREME
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="[FILMES/SERIES]", HBO XTREME
 http://23.237.78.82:30010/streams/7_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO POP
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="[FILMES/SERIES]", HBO POP
 http://23.237.78.82:30010/streams/183_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO POP
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="[FILMES/SERIES]", HBO POP
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/49?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FX
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="[FILMES/SERIES]", FX
 http://23.237.78.82:30010/streams/112_.m3u8?|User-Agent=n.TV
-http://192.95.30.205:8080/live/oMfPnRiUP9zxQc/AemKKoPnHmqc/126.m3u8?|User-Agent=GoPlayer
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxchannel.png" group-title="[FILMES/SERIES]", FOX
 http://23.237.78.82:30010/streams/161_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxchannel.png" group-title="[FILMES/SERIES]", FOX
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/23?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX LIFE
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxlifeb.png" group-title="[FILMES/SERIES]", FOX LIFE
 http://23.237.78.82:30010/streams/163_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 1
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="[FILMES/SERIES]", FOX PREMIUM 1
 http://23.237.78.82:30010/streams/165_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="[FILMES/SERIES]", FOX PREMIUM 2
 http://23.237.78.82:30010/streams/168_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="[FILMES/SERIES]", FOX PREMIUM 2
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/31?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium2b.png" group-title="[FILMES/SERIES]", FOX PREMIUM 2
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/29?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", PARAMOUNT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/ParamountNetwork.png" group-title="[FILMES/SERIES]", PARAMOUNT
 http://23.237.78.82:30010/streams/172_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", PARAMOUNT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/ParamountNetwork.png" group-title="[FILMES/SERIES]", PARAMOUNT
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/41?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", UNIVERSAL CHANNEL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="[FILMES/SERIES]", UNIVERSAL CHANNEL
 http://23.237.78.82:30010/streams/177_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TCM
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="[FILMES/SERIES]", TCM
 http://23.237.78.82:30010/streams/201_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TNT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="[FILMES/SERIES]", TNT
 http://23.237.78.82:30010/streams/5_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TNT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="[FILMES/SERIES]", TNT
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/44?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TNT SÉRIES 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tntseries.png" group-title="[FILMES/SERIES]", TNT SÉRIES 
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/27?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]",  WARNER CHANNEL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="[FILMES/SERIES]",  WARNER CHANNEL
 http://23.237.78.82:30010/streams/180_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", WARNER CHANNEL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="[FILMES/SERIES]", WARNER CHANNEL
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/45?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
