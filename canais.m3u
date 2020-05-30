@@ -1,130 +1,131 @@
 #EXTM3U
 
-#EXTINF:-1, AMC✅
+#EXTINF:-1, tvg-id="MGM" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="[FILMES/SERIES]", AMC
 http://23.237.78.82:30010/streams/3_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, AMC
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AMC
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/8?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, A&E✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", A&E
 http://23.237.78.82:30010/streams/157_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, AXN✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AXN
 http://23.237.78.82:30010/streams/181_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, AXN
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AXN
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/4?|User-agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, CANAL BRASIL✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", CANAL BRASIL
 http://23.237.78.82:30010/streams/15_.m3u8?|User-agent=n.TV
 
-#EXTINF:-1, MEGAPIX✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", MEGAPIX
 http://23.237.78.82:30010/streams/182_.m3u8?|User-agent=n.TV
 
-#EXTINF:-1, SPACE✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", SPACE
 http://23.237.78.82:30010/streams/200_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, STUDIO UNIVERSAL✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", STUDIO UNIVERSAL
 http://23.237.78.82:30010/streams/173_.m3u8?|User-agent=n.TV
 
-#EXTINF:-1, SYFY✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", SYFY
 http://23.237.78.82:30010/streams/174_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, SONY CHANNEL✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", SONY CHANNEL
 http://23.237.78.82:30010/streams/160_.m3u8?|User-agent=n.TV
-#EXTINF:-1, SONY CHANNEL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", SONY CHANNEL
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/24?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, TC ACTION✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC ACTION
 http://23.237.78.82:30010/streams/213_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1,  TC CULT✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]",  TC CULT
 http://23.237.78.82:30010/streams/203_.m3u8?|User-agent=n.TV
 
-#EXTINF:-1, TC FUN✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC FUN
 http://23.237.78.82:30010/streams/206_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, TC PIPOCA✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PIPOCA
 http://23.237.78.82:30010/streams/208_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, TC PREMIUM✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PREMIUM
 http://23.237.78.82:30010/streams/210_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1,  TC TOUCH✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]",  TC TOUCH
 http://23.237.78.82:30010/streams/212_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, HBO✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO
 http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, HBO 2✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2
 http://23.237.78.82:30010/streams/187_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, HBO 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/48?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, HBO FAMILY✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO FAMILY
 http://23.237.78.82:30010/streams/193_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, HBO PLUS✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO PLUS
 http://23.237.78.82:30010/streams/189_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO PLUS
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/50?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, HBO SIGNATURE✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO SIGNATURE
 http://23.237.78.82:30010/streams/192_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, HBO MUNDI✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO MUNDI
 http://23.237.78.82:30010/streams/195_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, HBO MUNDI
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO MUNDI
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/6?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, HBO XTREME✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO XTREME
 http://23.237.78.82:30010/streams/7_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, HBO POP✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO POP
 http://23.237.78.82:30010/streams/183_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, HBO POP
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO POP
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/49?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, FX✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FX
 http://23.237.78.82:30010/streams/112_.m3u8?|User-Agent=n.TV
 http://192.95.30.205:8080/live/oMfPnRiUP9zxQc/AemKKoPnHmqc/126.m3u8?|User-Agent=GoPlayer
 
-#EXTINF:-1, FOX✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX
 http://23.237.78.82:30010/streams/161_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, FOX
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/23?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, FOX LIFE✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX LIFE
 http://23.237.78.82:30010/streams/163_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, FOX PREMIUM 1✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 1
 http://23.237.78.82:30010/streams/165_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, FOX PREMIUM 2✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
 http://23.237.78.82:30010/streams/168_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, FOX PREMIUM 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/31?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, FOX PREMIUM 2
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/29?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, PARAMOUNT✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", PARAMOUNT
 http://23.237.78.82:30010/streams/172_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, PARAMOUNT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", PARAMOUNT
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/41?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, UNIVERSAL CHANNEL✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", UNIVERSAL CHANNEL
 http://23.237.78.82:30010/streams/177_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, TCM✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TCM
 http://23.237.78.82:30010/streams/201_.m3u8?|User-Agent=n.TV
 
-#EXTINF:-1, TNT✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TNT
 http://23.237.78.82:30010/streams/5_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, TNT
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TNT
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/44?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1, TNT SÉRIES 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TNT SÉRIES 
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/27?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-#EXTINF:-1,  WARNER CHANNEL✅
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]",  WARNER CHANNEL
 http://23.237.78.82:30010/streams/180_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, WARNER CHANNEL
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", WARNER CHANNEL
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/45?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
