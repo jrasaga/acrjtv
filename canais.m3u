@@ -33,6 +33,22 @@ http://23.237.78.82:30010/streams/158_.m3u8?|User-Agent=n.TV
 http://23.237.78.82:30010/streams/172_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, group-title="Filmes/Series", Tnt series
 http://23.237.78.82:30010/streams/176_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="Esportes", Combate
+http://23.237.78.82:30010/streams/49_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="Filmes/Series", Space
+http://23.237.78.82:30010/streams/200_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="Filmes/Series", TNT
+http://23.237.78.82:30010/streams/202_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="Filmes/Series", Tc Pipoca
+http://23.237.78.82:30010/streams/208_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="Filmes/Series", Tc Fun
+http://23.237.78.82:30010/streams/205_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="Filmes/Series", Fox Life
+http://23.237.78.82:30010/streams/163_.m3u8?|User-Agent=n.TV
+
+
+
+
 
 
 
