@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="AOVIVO.CLUB", Amc teste
-https://edge-aws.aovivo.club/hls/s:88.198.239.170/amcbrasil_b7f5113f_86ec23a9e718c359354801d315adcd0964bb0e82.m3u8
+https://edge-aws.aovivo.club/hls/s:88.198.239.170/amcbrasil_b7f5113f_86ec23a9e718c359354801d315adcd0964bb0e82.m3u8?|User-Agent=AppleWebKit/537.36
 #EXTINF:-1, group-title="AOVIVO.CLUB", Axn
 https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/axn_cb7a1d77_98525f8ce38f7bd27c133f93545f52bb9d97aeb2/playlist.m3u8?|User-Agent=AppleWebKit/537.36
 #EXTINF:-1, group-title="AOVIVO.CLUB", CINEMAX HD
@@ -10,7 +10,8 @@ https://edge-aws.aovivo.club/hls/s:88.198.239.170/cinemaxhd_49117359_0d58f2479fa
 https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax_22d200f8_31f9417a3f0c2d1c29c38c3a9eed36347be3d6f5.m3u8?|User-Agent=AppleWebKit/537.36
 #EXTINF:-1, group-title="AOVIVO.CLUB", HBO POP
 https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbopop_ce09b127_95c66ba43819150b4361f579d65f1d6e73af329f/playlist.m3u8?|User-Agent=AppleWebKit/537.36
-
+#EXTINF:-1, group-title="AOVIVO.CLUB", TNT
+https://edge-aws.aovivo.club/hls/s:78.47.27.206/tnt_9109c85a_a2171a90427d79c156363d7a66b64947fc83cf05/playlist.m3u8?|User-Agent=AppleWebKit/537.36
 
 
 
