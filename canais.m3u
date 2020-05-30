@@ -1,58 +1,130 @@
 #EXTM3U
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Multishow
-http://23.237.78.82:30010/streams/143_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Nick jr
-http://23.237.78.82:30010/streams/139_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Hbo
-http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Hbo 2
-http://23.237.78.82:30010/streams/188_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Hbo family
-http://23.237.78.82:30010/streams/194_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Tlc
-http://23.237.78.82:30010/streams/122_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Discovery Science
-http://23.237.78.82:30010/streams/121_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Nat Geo Brasil
-http://23.237.78.82:30010/streams/117_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", ID - Investigação Discovery
-http://23.237.78.82:30010/streams/116_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", History Channel
-http://23.237.78.82:30010/streams/114_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Food Network
-http://23.237.78.82:30010/streams/110_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Discovery World
-http://23.237.78.82:30010/streams/108_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Tv Ra-tim-bum
-http://23.237.78.82:30010/streams/136_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Gloob
-http://23.237.78.82:30010/streams/132_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Amc
-http://23.237.78.82:30010/streams/158_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Paramount Channel
-http://23.237.78.82:30010/streams/172_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Tnt series
-http://23.237.78.82:30010/streams/176_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Combate
-http://23.237.78.82:30010/streams/49_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Space
+
+#EXTINF:-1, AMC✅
+http://23.237.78.82:30010/streams/3_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, AMC
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/8?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, A&E✅
+http://23.237.78.82:30010/streams/157_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, AXN✅
+http://23.237.78.82:30010/streams/181_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, AXN
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/4?|User-agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, CANAL BRASIL✅
+http://23.237.78.82:30010/streams/15_.m3u8?|User-agent=n.TV
+
+#EXTINF:-1, MEGAPIX✅
+http://23.237.78.82:30010/streams/182_.m3u8?|User-agent=n.TV
+
+#EXTINF:-1, SPACE✅
 http://23.237.78.82:30010/streams/200_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", TNT
-http://23.237.78.82:30010/streams/202_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Tc Pipoca
+
+#EXTINF:-1, STUDIO UNIVERSAL✅
+http://23.237.78.82:30010/streams/173_.m3u8?|User-agent=n.TV
+
+#EXTINF:-1, SYFY✅
+http://23.237.78.82:30010/streams/174_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, SONY CHANNEL✅
+http://23.237.78.82:30010/streams/160_.m3u8?|User-agent=n.TV
+#EXTINF:-1, SONY CHANNEL
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/24?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, TC ACTION✅
+http://23.237.78.82:30010/streams/213_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1,  TC CULT✅
+http://23.237.78.82:30010/streams/203_.m3u8?|User-agent=n.TV
+
+#EXTINF:-1, TC FUN✅
+http://23.237.78.82:30010/streams/206_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, TC PIPOCA✅
 http://23.237.78.82:30010/streams/208_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Tc Fun
-http://23.237.78.82:30010/streams/205_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, group-title="[ALTERNATIVOS]", Fox Life
+
+#EXTINF:-1, TC PREMIUM✅
+http://23.237.78.82:30010/streams/210_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1,  TC TOUCH✅
+http://23.237.78.82:30010/streams/212_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, HBO✅
+http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, HBO 2✅
+http://23.237.78.82:30010/streams/187_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, HBO 2
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/48?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, HBO FAMILY✅
+http://23.237.78.82:30010/streams/193_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, HBO PLUS✅
+http://23.237.78.82:30010/streams/189_.m3u8?|User-Agent=n.TV
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/50?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, HBO SIGNATURE✅
+http://23.237.78.82:30010/streams/192_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, HBO MUNDI✅
+http://23.237.78.82:30010/streams/195_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, HBO MUNDI
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/6?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, HBO XTREME✅
+http://23.237.78.82:30010/streams/7_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, HBO POP✅
+http://23.237.78.82:30010/streams/183_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, HBO POP
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/49?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, FX✅
+http://23.237.78.82:30010/streams/112_.m3u8?|User-Agent=n.TV
+http://192.95.30.205:8080/live/oMfPnRiUP9zxQc/AemKKoPnHmqc/126.m3u8?|User-Agent=GoPlayer
+
+#EXTINF:-1, FOX✅
+http://23.237.78.82:30010/streams/161_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, FOX
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/23?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, FOX LIFE✅
 http://23.237.78.82:30010/streams/163_.m3u8?|User-Agent=n.TV
 
+#EXTINF:-1, FOX PREMIUM 1✅
+http://23.237.78.82:30010/streams/165_.m3u8?|User-Agent=n.TV
 
+#EXTINF:-1, FOX PREMIUM 2✅
+http://23.237.78.82:30010/streams/168_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, FOX PREMIUM 2
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/31?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+#EXTINF:-1, FOX PREMIUM 2
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/29?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
+#EXTINF:-1, PARAMOUNT✅
+http://23.237.78.82:30010/streams/172_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, PARAMOUNT
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/41?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
+#EXTINF:-1, UNIVERSAL CHANNEL✅
+http://23.237.78.82:30010/streams/177_.m3u8?|User-Agent=n.TV
 
+#EXTINF:-1, TCM✅
+http://23.237.78.82:30010/streams/201_.m3u8?|User-Agent=n.TV
 
+#EXTINF:-1, TNT✅
+http://23.237.78.82:30010/streams/5_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, TNT
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/44?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
+#EXTINF:-1, TNT SÉRIES 
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/27?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
-
-
+#EXTINF:-1,  WARNER CHANNEL✅
+http://23.237.78.82:30010/streams/180_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, WARNER CHANNEL
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/45?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
 
