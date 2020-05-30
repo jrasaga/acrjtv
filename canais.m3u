@@ -18,12 +18,12 @@ https://edge-aws.aovivo.club/hls/s:78.47.27.206/tnt_9109c85a_a2171a90427d79c1563
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8
 
 
-#EXTINF:-1,TESTE globonordeste
+#EXTINF:-1,TESTE Globo Nordeste
 #EXTVLCOPT:Referer=https://player.aovivo.club/channels/globonordeste
-https://edge-aws.aovivo.club/hls/s:78.47.27.206/globonordeste_acf10f2c_c505cb26899e88198fa1d35f500e177b075a9eca-241.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.1.0; SM-G610M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+https://edge-aws.aovivo.club/hls/s:78.47.27.206/globonordeste_acf10f2c_c505cb26899e88198fa1d35f500e177b075a9eca-241.ts?|User-Agent=AppleWebKit/537.36
 
 #EXTINF:-1, TESTE 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.8.4
 http://s.tvmaster.net:80/latino/171717/34712
 
 
