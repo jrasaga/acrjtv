@@ -18,9 +18,9 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tntsd/video.m3u8?|User-A
 
 
 
-#EXTINF:-1,TESTE
-#EXTVLCOPT:http-referrer=https://topcanais.com/assistir-megapix-ao-vivo-24-horas-online/
-https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8?|User-Agent=AppleWebKit/537.36
+#EXTINF:-1,TESTE 1
+#EXTVLCOPT:http-referrer=https://topcanais.com/assistir-megapix-ao-vivo-24-horas-online
+https://geralorigin.eu-central-1.edge.mycdn.live/live/megapixhd/video.m3u8
 
 
 
