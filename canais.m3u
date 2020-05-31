@@ -134,6 +134,40 @@ http://23.237.78.82:30010/streams/141_.m3u8?|User-Agent=n.TV
 http://192.95.30.205:8080/live/eWXoERoyWzrAqF/Ro7MZ27eNUMM/201.m3u8?|User-Agent=GoPlayer
 #EXTINF:-1,  tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="[ENTRETENIMENTO]", MTV
 http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/21?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
-
 #EXTINF:-1,  tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/eentertainmentb.png" group-title="[ENTRETENIMENTO]", E!
 http://23.237.78.82:30010/streams/155_.m3u8?|User-Agent=n.TV
+
+########## VARIEDADES ##########
+ #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", COMEDY CENTRAL
+http://23.237.78.82:30010/streams/148_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", COMEDY CENTRAL
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/20?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", MULTISHOW
+http://23.237.78.82:30010/streams/143_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", VIVA
+http://23.237.78.82:30010/streams/153_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", VIVA
+http://195.154.161.57:8081/live/viva/chunks.m3u8?nimblesessionid=126787?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", VIVA
+http://195.154.161.57:8081/live/viva/playlist.m3u8?wmsAuthSign=?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", TLC
+http://192.95.30.205:8080/live/eWXoERoyWzrAqF/Ro7MZ27eNUMM/300.m3u8?|User-Agent=GoPlayer
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", TLC
+http://62.210.189.131:25461/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/10?|User-Agent=ExoPlayerDemo/18.7.4 (Linux;Android 9) ExoPlayerLib/2.8.4
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", GNT
+http://23.237.78.82:30010/streams/150_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", FOOD NETWORK
+http://23.237.78.82:30010/streams/111_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", OFF
+http://23.237.78.82:30010/streams/59_.m3u8?|User-Agent=n.TV
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo"" group-title="[VARIEDADES]", FISH TV
+http://23.237.78.82:30010/streams/109_.m3u8?|User-Agent=n.TV
+
+
