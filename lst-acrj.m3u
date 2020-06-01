@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ABERTOS]", SBT
 http://23.237.78.82:30010/streams/1_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ABERTOS]", GLOBO 
@@ -53,7 +51,7 @@ http://23.237.78.82:30010/streams/34_.m3u8?|User-Agent=n.TV
 http://23.237.78.82:30010/streams/35_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ABERTOS]", SBT
 http://23.237.78.82:30010/streams/37_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[VARIEDADES]", TV MEDALHÃO
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[RELIGIOSOS]", TV APARECIDA
 http://23.237.78.82:30010/streams/38_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[VARIEDADES]", TV BRASIL
 http://23.237.78.82:30010/streams/39_.m3u8?|User-Agent=n.TV
@@ -385,112 +383,77 @@ http://23.237.78.82:30010/streams/204_.m3u8?|User-Agent=n.TV
 http://23.237.78.82:30010/streams/205_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC FUN [ALT]
 http://23.237.78.82:30010/streams/206_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", TC PIPOCA
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PIPOCA
 http://23.237.78.82:30010/streams/207_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", TC PIPOCA [ALT]
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PIPOCA [ALT]
 http://23.237.78.82:30010/streams/208_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PREMIUM
 http://23.237.78.82:30010/streams/209_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC PREMIUM [ALT]
 http://23.237.78.82:30010/streams/210_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC TOUCH
 http://23.237.78.82:30010/streams/211_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC TOUCH [ALT]
 http://23.237.78.82:30010/streams/212_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC ACTION
 http://23.237.78.82:30010/streams/213_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", TC ACTION [ALT]
 http://23.237.78.82:30010/streams/214_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ADULTO]", PLAYBOY TV
 http://23.237.78.82:30010/streams/215_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ADULTO]", SEXTREME
 http://23.237.78.82:30010/streams/216_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ADULTO]", SEXY HOT
 http://23.237.78.82:30010/streams/217_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ADULTO]", VENUS
 http://23.237.78.82:30010/streams/218_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/219_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[VARIEDADES]", TV GAZETA
 http://23.237.78.82:30010/streams/220_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[VARIEDADES]", TV GAZETA
 http://23.237.78.82:30010/streams/221_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INFANTIL]", TOONCAST
 http://23.237.78.82:30010/streams/222_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[DOCUMENTARIOS]", HISTORY CHANNEL 2
 http://23.237.78.82:30010/streams/223_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/224_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", OTV ARABE
 http://23.237.78.82:30010/streams/225_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/226_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/227_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/228_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/229_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/230_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/231_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/232_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/233_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
 http://23.237.78.82:30010/streams/234_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/235_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/236_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/237_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/238_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/239_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[NOTICIAS]", CNN BRASIL
 http://23.237.78.82:30010/streams/240_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ESPORTES]", ESPN 2
 http://23.237.78.82:30010/streams/241_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
 http://23.237.78.82:30010/streams/242_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[INTERNACIONAL]", CANAL ARABE
 http://23.237.78.82:30010/streams/243_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[VARIEDADES]", FUTURA
 http://23.237.78.82:30010/streams/244_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/245_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/246_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[RELIGIOSOS]", REDE GOSPEL
 http://23.237.78.82:30010/streams/247_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
 http://23.237.78.82:30010/streams/248_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ADULTO]", EROTIC 4
 http://23.237.78.82:30010/streams/249_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
 http://23.237.78.82:30010/streams/250_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ADULTO]", PASSIE XXX
 http://23.237.78.82:30010/streams/251_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
 http://23.237.78.82:30010/streams/252_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[ADULTO]", EROTIC
 http://23.237.78.82:30010/streams/253_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/254_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/255_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/256_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/257_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/258_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/259_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
-http://23.237.78.82:30010/streams/260_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[]", 
