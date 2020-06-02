@@ -44,6 +44,8 @@ http://23.237.78.82:30010/streams/158_.m3u8?|User-Agent=n.TV
 http://23.237.78.82:30010/streams/181_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", CANAL BRASIL
 http://23.237.78.82:30010/streams/15_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, tvg-id="CINEMAX" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", CINEMAX
+http://23.237.78.82:30010/streams/234_.m3u8?|User-Agent=n.TV
 #EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", COMEDY CENTRAL
 http://23.237.78.82:30010/streams/148_.m3u8?|User-Agent=n.TV
 #EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", COMEDY CENTRAL [ALT]
@@ -473,8 +475,6 @@ http://23.237.78.82:30010/streams/251_.m3u8?|User-Agent=n.TV
 http://23.237.78.82:30010/streams/253_.m3u8?|User-Agent=n.TV
 
 |||||| CANAIS SABER |||||
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
-http://23.237.78.82:30010/streams/234_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
 http://23.237.78.82:30010/streams/242_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[SABER]", 
