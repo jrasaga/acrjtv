@@ -42,45 +42,45 @@ http://23.237.78.82:30010/streams/3_.m3u8?|User-Agent=n.TV
 http://23.237.78.82:30010/streams/158_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="AXN" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AXN
 http://23.237.78.82:30010/streams/181_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", CANAL BRASIL
+#EXTINF:-1, tvg-id="CANAL BRASIL" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", CANAL BRASIL
 http://23.237.78.82:30010/streams/15_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="CINEMAX" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", CINEMAX
 http://23.237.78.82:30010/streams/242_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", COMEDY CENTRAL
+#EXTINF:1-, tvg-id="COMEDY CENTRAL" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", COMEDY CENTRAL
 http://23.237.78.82:30010/streams/148_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", COMEDY CENTRAL [ALT]
+#EXTINF:1-, tvg-id="COMEDY CENTRAL" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", COMEDY CENTRAL [ALT]
 http://23.237.78.82:30010/streams/149_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX CHANNEL
+#EXTINF:1-, tvg-id="FOX" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX CHANNEL
 http://23.237.78.82:30010/streams/161_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX CHANNEL [ALT]
+#EXTINF:1-, tvg-id="FOX" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX CHANNEL [ALT]
 http://23.237.78.82:30010/streams/162_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 1
+#EXTINF:1-, tvg-id="FOX PREMIUM 1" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 1
 http://23.237.78.82:30010/streams/165_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 1 [ALT]
+#EXTINF:1-, tvg-id="FOX PREMIUM 1" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 1 [ALT]
 http://23.237.78.82:30010/streams/166_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
+#EXTINF:1-, tvg-id="FOX PREMIUM 2" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2
 http://23.237.78.82:30010/streams/167_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2 [ALT]
+#EXTINF:1-, tvg-id="FOX PREMIUM 2" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX PREMIUM 2 [ALT]
 http://23.237.78.82:30010/streams/168_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX LIFE
+#EXTINF:1-, tvg-id="FOX LIFE" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX LIFE
 http://23.237.78.82:30010/streams/163_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX LIFE [ALT]
+#EXTINF:1-, tvg-id="FOX LIFE" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FOX LIFE [ALT]
 http://23.237.78.82:30010/streams/164_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FX
+#EXTINF:1-, tvg-id="FX" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FX
 http://23.237.78.82:30010/streams/112_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FX [ALT]
+#EXTINF:1-, tvg-id="FX" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", FX [ALT]
 http://23.237.78.82:30010/streams/113_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO
+#EXTINF:-1, tvg-id="HBO" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO
 http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO [ALT]
+#EXTINF:-1, tvg-id="HBO" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO [ALT]
 http://23.237.78.82:30010/streams/186_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2
+#EXTINF:-1, tvg-id="HBO 2" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2
 http://23.237.78.82:30010/streams/187_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2 [ALT]
+#EXTINF:-1, tvg-id="HBO 2" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO 2 [ALT]
 http://23.237.78.82:30010/streams/188_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO FAMILY
+#EXTINF:-1, tvg-id="HBO FAMILY" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO FAMILY
 http://23.237.78.82:30010/streams/193_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO FAMILY [ALT]
+#EXTINF:-1, tvg-id="HBO FAMILY" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO FAMILY [ALT]
 http://23.237.78.82:30010/streams/194_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", HBO XTREME
 http://23.237.78.82:30010/streams/7_.m3u8?|User-Agent=n.TV
