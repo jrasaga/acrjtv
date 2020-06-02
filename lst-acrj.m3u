@@ -34,13 +34,13 @@ http://23.237.78.82:30010/streams/25_.m3u8?|User-Agent=n.TV
 http://23.237.78.82:30010/streams/26_.m3u8?|User-Agent=n.TV
 
 ||||| CANAIS FILMES / SERIES |||||
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", A&E
+#EXTINF:1-, tvg-id="A&E" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", A&E
 http://23.237.78.82:30010/streams/157_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AMC
+#EXTINF:-1, tvg-id="AMC" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AMC
 http://23.237.78.82:30010/streams/3_.m3u8?|User-Agent=n.TV
-#EXTINF:1-, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AMC [ALT]
+#EXTINF:1-, tvg-id="AMC" tvg-name="" tvg-logo="" group-title="[ALTERNATIVOS]", AMC [ALT]
 http://23.237.78.82:30010/streams/158_.m3u8?|User-Agent=n.TV
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AXN
+#EXTINF:-1, tvg-id="AXN" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", AXN
 http://23.237.78.82:30010/streams/181_.m3u8?|User-Agent=n.TV
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="[FILMES/SERIES]", CANAL BRASIL
 http://23.237.78.82:30010/streams/15_.m3u8?|User-Agent=n.TV
