@@ -12,9 +12,21 @@ https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
 #EXTINF:-1, TV ARACATI
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 #EXTINF:-1, GLOBO NORDESTE (MULTICANAIS COM COMPLEMENTO)
-ttps://live.multicanais.com/mylive/globonordeste/video.m3u8?md5=2T3LCIiXGsuWoyd7r2ODcg&expires=1591263593
+ttps://live.multicanais.com/mylive/globonordeste/video.m3u8?md5=2T3LCIiXGsuWoyd7r2ODcg&expires=1591263593?|
 #EXTINF:-1, GLOBO NORDESTE (MULTICANAIS SEM COMPLEMENTO)
 ttps://live.multicanais.com/mylive/globonordeste/video.m3u8
+
+#EXTVLCOPT:network-caching=1000
+http://2013.realtimeconf.com/Legacy.mp3
+#EXTINF:204,Realtime Conf 2013 Opening Credits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:network-caching=1000
+http://player.vimeo.com/play_redirect?quality=hd&codecs=h264&clip_id=77237425&time=1382285799&sig=92c13c9b15f9f565654c5dbd17f20ef4&type=html5_desktop_local
+#EXTINF:605,2013 Realtime Conf. - Something Greater than Artiface 1_1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:network-caching=1000
+http://player.vimeo.com/play_redirect?quality=hd&codecs=h264&clip_id=77270126&time=1382286519&sig=54ec8254f5a791f77731c0c50b099854&type=html5_desktop_local
+
 
 
 
