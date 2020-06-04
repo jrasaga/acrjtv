@@ -11,13 +11,8 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
 #EXTINF:-1, TV ARACATI
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FOX SPORTS
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsportshd/video.m3u8
-#EXTINF:-1, GLOBO NORDESTE
-https://stream.ec.cx/hls1/bobonordeste.m3u8?expires=1591253361&token=086b97ec15ec573212f64a38e8bda649
-#EXTINF:-1, BAND NEWS
-https://stream.ec.cx/hls1/bandnews.m3u8?expires=1591253653&token=0f85482d8acef31f45e3d96a0a9cc681
-#EXTINF:-1, GLOBO NEWS
-https://stream.ec.cx/hls1/globonews.m3u8?expires=1591254446&token=9da8fa44fb77a829585ad6a770cff07c
-#EXTINF:-1, SEM NOME
-http://tvnanet.xyz:25461/live/palmeiras/maiordobrasil/149.m3u8
+
+#EXTINF:-0 tvg-id="ID EPG" tvg-name="NAME " tvg-logo="URL IMG LOGO" group-title="Name Group", NAME CHANNEL
+#EXTVLCOPT:http-referrer=https://futemax.fm/assistir_no_geralcdn.php?canal=hbohd&pasta=live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8
