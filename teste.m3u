@@ -19,3 +19,5 @@ https://stream.ec.cx/hls1/bobonordeste.m3u8?expires=1591253361&token=086b97ec15e
 https://stream.ec.cx/hls1/bandnews.m3u8?expires=1591253653&token=0f85482d8acef31f45e3d96a0a9cc681
 #EXTINF:-1, GLOBO NEWS
 https://stream.ec.cx/hls1/globonews.m3u8?expires=1591254446&token=9da8fa44fb77a829585ad6a770cff07c
+#EXTINF:-1, SEM NOME
+http://tvnanet.xyz:25461/live/palmeiras/maiordobrasil/149.m3u8
