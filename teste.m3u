@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, FOX PREMIUM com agent
-https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8?|User-Agent=Xumo/2.5.0 (Linux;Android 9) ExoPlayerLib/2.9.0
+#EXTINF:-1, FOX PREMIUM 1
+https://geralorigin.eu-central-1.edge.mycdn.live/live/foxpremium2hd/video.m3u8?|User-Agent=AppleWebKit/605.1.15
 #EXTINF:-1, SPACE
 https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8
