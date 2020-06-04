@@ -11,8 +11,5 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
 #EXTINF:-1, TV ARACATI
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-
-#EXTINF:-0 tvg-id="ID EPG" tvg-name="NAME " tvg-logo="URL IMG LOGO" group-title="Name Group", NAME CHANNEL
-#EXTVLCOPT:http-referrer=https://futemax.fm/assistir_no_geralcdn.php?canal=hbohd&pasta=live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbohd/video.m3u8
+#EXTINF:-1, group-title="ONDEMAND", TERREMOTO
+https://d1ws1c7jw1ise5.cloudfront.net/d/RCFServer5/ondemand/TERMTO.mp4
