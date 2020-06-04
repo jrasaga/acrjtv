@@ -11,6 +11,10 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
 #EXTINF:-1, TV ARACATI
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GLOBO NORDESTE (MULTICANAIS COM COMPLEMENTO)
+ttps://live.multicanais.com/mylive/globonordeste/video.m3u8?md5=2T3LCIiXGsuWoyd7r2ODcg&expires=1591263593
+#EXTINF:-1, GLOBO NORDESTE (MULTICANAIS SEM COMPLEMENTO)
+ttps://live.multicanais.com/mylive/globonordeste/video.m3u8
 
 
 
