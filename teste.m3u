@@ -17,8 +17,8 @@ https://live.multicanais.com/mylive/globonordeste/video.m3u8?md5=2T3LCIiXGsuWoyd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1, GLOBO NORDESTE (MULTICANAIS SEM COMPLEMENTO)
 https://live.multicanais.com/mylive/globonordeste/video.m3u8
-
-
+#EXTINF:-1, BAND NEWS (MULTICANAIS SEM EXPIRES)
+https://live.multicanais.com/live/bandnewshd/video.m3u8?md5=JkhvaEOqfoZQWrOCKEBqQQ
 
 
 
