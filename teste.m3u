@@ -13,3 +13,5 @@ https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
 https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="ONDEMAND", TERREMOTO
 https://d1ws1c7jw1ise5.cloudfront.net/d/RCFServer5/ondemand/TERMTO.mp4
+#EXTINF:-1, group-title="ONDEMAND", LUCCAS NETO - O HOTEL MAGICO
+https://d1ws1c7jw1ise5.cloudfront.net/d/RCFServer5/ondemand/LCSNTOEMOHTLMGCO.mp4
