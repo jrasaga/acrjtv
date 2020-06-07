@@ -15,3 +15,7 @@ https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 https://d1ws1c7jw1ise5.cloudfront.net/d/RCFServer5/ondemand/TERMTO.mp4
 #EXTINF:-1, group-title="ONDEMAND", LUCCAS NETO - O HOTEL MAGICO
 https://d1ws1c7jw1ise5.cloudfront.net/d/RCFServer5/ondemand/LCSNTOEMOHTLMGCO.mp4
+#EXTINF:-1, ESPM BRASIL 
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8
+#EXTINF:-1, ESPN BRASIL 720p
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8
